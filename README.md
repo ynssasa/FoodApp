@@ -1,6 +1,6 @@
 # FOODAPP
    Bir yemek şirketine ait mobil yemek sipariş uygulamasıdır.Admin ve kullanıcı paneli mevcuttur.
-## Admin Paneli özellikler :
+## Admin Paneli Özellikler :
  - Anasayfa görüntüleme
  - Kategori ekleme
  - Ürün ekleme,silme,güncelleme
