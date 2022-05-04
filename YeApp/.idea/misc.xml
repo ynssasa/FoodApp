@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/btnround.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/edit_text_border.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/drawable/textradius.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_anasayfa.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_login_screen.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_navbardeneme.xml" value="0.22" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_odeme.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_profil.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_sepet.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_siparis_detay.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_siparisler.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/edit_text_border.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/eskianasayfa.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_profil.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_sepet.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/fragment_third.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/item.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/layout_listitem.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/row_item.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/sepet.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/sepet_single_item.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/sepet_single_item2.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/siparis_detay_urun.xml" value="0.5" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/siparis_onay.xml" value="0.209375" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/siparis_single_urun.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/layout/urun_single_item.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/FoodApp/app/src/main/res/menu/bottom_menu.xml" value="0.22" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/YeApp2/app/src/main/res/layout/activity_kategori_ekle.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/YeApp2/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/YeApp2/app/src/main/res/layout/activity_odeme.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/YeApp2/app/src/main/res/layout/activity_profil.xml" value="0.5" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/YeApp2/app/src/main/res/layout/activity_sign_up.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/YeApp2/app/src/main/res/layout/activity_siparis_detay.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/YeApp2/app/src/main/res/layout/siparis_detay_urun.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/YeApp2/app/src/main/res/layout/siparis_onay.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_admin_paneli.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_admin_siparis_detay.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_anasayfa.xml" value="0.22" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_odeme.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_profil.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_sepet.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_siparis_detay.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_siparisler.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_urun_ayarlar.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_urun_ekle.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_urun_guncelle.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/activity_urun_sil.xml" value="0.2" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/dropdown_item.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food22/app/src/main/res/layout/eskianasayfa.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/drawable-v24/selector.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/drawable/ic_home.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_admin_paneli.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_admin_siparis_detay.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_anasayfa.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_drop_list_yunus.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_json_deneme.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_kategori_ekle.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_login_screen.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_odeme.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_profil.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_sepet.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_siparis_detay.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_siparisler.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_urun_ayarlar.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_urun_ekle.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_urun_guncelle.xml" value="0.18" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/activity_urun_sil.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/dropdown_item.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/eskianasayfa.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/fragment_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/fragment_profil.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/item_list.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/layout_basarisiz_bottom_sheet.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/row_item.xml" value="0.25" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/sepet_single_item.xml" value="0.5" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/sepet_single_item2.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/siparis_detay_urun.xml" value="0.5" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/siparis_single_urun.xml" value="0.33" />
+        <entry key="..\:/Users/erayt/AndroidStudioProjects/food23/app/src/main/res/layout/urun_single_item.xml" value="0.5" />
+        <entry key="..\:/Users/erayt/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_dropdown_item.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/user/Desktop/YeApp/app/src/main/res/layout/activity_admin_paneli.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/YeApp/app/src/main/res/layout/activity_admin_siparis_detay.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/YeApp/app/src/main/res/layout/activity_kategori_ekle.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/YeApp/app/src/main/res/layout/activity_profil.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/YeApp/app/src/main/res/layout/activity_siparis_detay.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/YeApp/app/src/main/res/layout/category_row_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/YeApp/app/src/main/res/layout/sepet_single_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/YeApp/app/src/main/res/layout/siparis_detay_urun.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/YeApp/app/src/main/res/layout/siparis_single_urun.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/YeApp/app/src/main/res/layout/urun_single_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food22/app/src/main/res/drawable-v24/ic_shopping_basket.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/Desktop/food22/app/src/main/res/layout/activity_anasayfa.xml" value="0.24045801526717558" />
+        <entry key="..\:/Users/user/Desktop/food22/app/src/main/res/layout/activity_odeme.xml" value="0.22992700729927007" />
+        <entry key="..\:/Users/user/Desktop/food22/app/src/main/res/layout/activity_profil.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food22/app/src/main/res/layout/activity_sepet.xml" value="0.22992700729927007" />
+        <entry key="..\:/Users/user/Desktop/food22/app/src/main/res/layout/activity_siparis_detay.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food22/app/src/main/res/menu/alt_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_admin_paneli.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_admin_siparis_detay.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_anasayfa.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_drop_list_yunus.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_kategori_ekle.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_login_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_odeme.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_profil.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_sepet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_siparis_detay.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/activity_siparisler.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/item_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/row_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/sepet_single_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/sepet_single_item2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/siparis_detay_urun.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/siparis_onay.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/siparis_single_urun.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Desktop/food23/app/src/main/res/layout/urun_single_item.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottomSheetContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bottom_sheet_background"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="@drawable/basarisiz_x"
+        android:layout_gravity="center_horizontal"></ImageView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Başarısız"
+        android:textSize="24sp"
+        android:fontFamily="@font/poppins"
+        android:layout_gravity="center"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ödeme Yapılamadı."
+        android:textSize="18sp"
+        android:fontFamily="@font/poppins"
+        android:layout_gravity="center"></TextView>
+
+    <Button
+        android:id="@+id/anasayfayadon"
+        android:layout_width="276dp"
+        android:layout_height="61dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/btnround"
+        android:backgroundTint="#FF671D"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="@font/source_sans_pro"
+        android:text="Anasayfaya dön"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+</LinearLayout>

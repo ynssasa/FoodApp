@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/anasayfa"
+        android:title="Anasayfa"
+        android:icon="@drawable/home_yeni"/>
+    <item
+        android:id="@+id/sepet"
+        android:title="Sepet"
+        android:icon="@drawable/ic_shopping_basket"/>
+    <item
+        android:id="@+id/profil"
+        android:title="Profil"
+        android:icon="@drawable/man_user"/>
+</menu>

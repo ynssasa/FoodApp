@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221832420700",
+    "project_id": "yeapp-3540e",
+    "storage_bucket": "yeapp-3540e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221832420700:android:81355d3e0641cd7d677599",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221832420700-ujp8t61a46anloi2kd303g4et1dm6b13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4lWkwz_9A-w9VO1Xp5B-uV8Cqxtm0Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221832420700-ujp8t61a46anloi2kd303g4et1dm6b13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

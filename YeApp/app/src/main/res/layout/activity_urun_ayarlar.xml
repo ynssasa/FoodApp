@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UrunAyarlar">
+
+    <ImageView
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/back_button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:fontFamily="@font/source_sans_pro_bold"
+        android:gravity="center"
+        android:text="Ürün Ayarlar"
+        android:textSize="50sp"
+        app:layout_constraintStart_toEndOf="@+id/backButton"
+        app:layout_constraintTop_toTopOf="@+id/backButton" />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="118dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="118dp"
+        android:fontFamily="@font/source_sans_pro_bold"
+        android:gravity="center"
+        android:text="Merhaba, Admin"
+        android:textSize="35sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.511"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+
+
+    <TextView
+        android:id="@+id/cikisYapTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="118dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="118dp"
+        android:fontFamily="@font/source_sans_pro"
+        android:gravity="center"
+        android:text="Çıkış Yap"
+        android:textColor="#FF5722"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_weight="0.9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cikisYapTxt">
+
+        <Button
+            android:id="@+id/kategoriEkle"
+            android:layout_width="142dp"
+            android:layout_height="61dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/btnround"
+            android:backgroundTint="#FF671D"
+            android:fontFamily="@font/source_sans_pro"
+            android:text="Kategori Ekle"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/urunEkle"
+            android:layout_width="142dp"
+            android:layout_height="61dp"
+            android:layout_below="@id/kategoriEkle"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/btnround"
+            android:backgroundTint="#FF671D"
+            android:fontFamily="@font/source_sans_pro"
+            android:text="Ürün Ekle"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+
+        <Button
+            android:id="@+id/urunGuncelle"
+            android:layout_width="142dp"
+            android:layout_height="61dp"
+            android:layout_below="@id/urunEkle"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/btnround"
+            android:backgroundTint="#FF671D"
+            android:fontFamily="@font/source_sans_pro"
+            android:text="Ürün Güncelle"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/urunSil"
+            android:layout_width="142dp"
+            android:layout_height="61dp"
+            android:layout_below="@id/urunGuncelle"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/btnround"
+            android:backgroundTint="#FF671D"
+            android:fontFamily="@font/source_sans_pro"
+            android:text="Ürün Sil"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

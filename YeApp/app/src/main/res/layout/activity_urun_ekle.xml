@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UrunEkle">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:fontFamily="@font/source_sans_pro_bold"
+        android:gravity="center"
+        android:text="Ürün Ekle"
+        android:textSize="50sp"
+        app:layout_constraintStart_toEndOf="@+id/backButton"
+        app:layout_constraintTop_toTopOf="@+id/backButton" />
+
+    <ImageView
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/back_button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_weight="0.9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView">
+
+        <ImageView
+            android:id="@+id/resimEkleImg"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/uruneklersm"
+            android:onClick="selectImage" />
+
+        <EditText
+            android:id="@+id/urunAdi"
+            android:layout_width="270dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/resimEkleImg"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:width="200dp"
+            android:background="@drawable/textradius"
+            android:ems="10"
+            android:hint="Ürün Adı"
+            android:inputType="text"
+            android:paddingLeft="10dp"
+            android:textColor="@color/black"
+            app:layout_constraintCircleRadius="@dimen/cardview_default_radius"
+            tools:layout_editor_absoluteX="68dp"
+            tools:layout_editor_absoluteY="326dp" />
+
+        <EditText
+            android:id="@+id/urunFiyati"
+            android:layout_width="270dp"
+            android:layout_height="40dp"
+            android:layout_below="@id/urunAdi"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:width="200dp"
+            android:background="@drawable/textradius"
+            android:ems="10"
+            android:hint="Ürün Fiyatı"
+            android:inputType="text"
+            android:paddingLeft="10dp"
+            android:textColor="@color/black"
+            app:layout_constraintCircleRadius="@dimen/cardview_default_radius"
+            tools:layout_editor_absoluteX="68dp"
+            tools:layout_editor_absoluteY="326dp" />
+
+        <Spinner
+            android:id="@+id/urunKategori"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@id/urunFiyati"
+            android:layout_marginTop="36dp"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/updateButton"
+            android:layout_width="142dp"
+            android:layout_height="61dp"
+            android:layout_below="@id/urunKategori"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/btnround"
+            android:backgroundTint="#FF671D"
+            android:fontFamily="@font/source_sans_pro"
+            android:onClick="upload"
+            android:text="Ürün Ekle"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
